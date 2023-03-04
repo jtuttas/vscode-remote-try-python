@@ -14,7 +14,27 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker"
+				"qwtel.sqlite-viewer",
+				"dracula-theme.theme-dracula",
+				"hediet.vscode-drawio",
+				"MS-CEINTL.vscode-language-pack-de",
+				"bierner.github-markdown-preview",
+				"ms-toolsai.jupyter",
+				"bierner.markdown-mermaid",
+				"PKief.material-icon-theme",
+				"mongodb.mongodb-vscode",
+				"jebbs.plantuml",
+				"ms-python.vscode-pylance",
+				"ms-python.python",
+				"frhtylcn.pythonsnippets",
+				"humao.rest-client",
+				"mtxr.sqltools",
+				"theumletteam.umlet",
+				"redhat.vscode-xml",
+				"redhat.vscode-yaml"
+
+
+
 			]
 		}
 	},
