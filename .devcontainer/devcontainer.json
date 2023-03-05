@@ -10,6 +10,11 @@
 
 	// Configure tool-specific properties.
 	"customizations": {
+		"codespaces": {
+			"openFiles": [
+				"./test.ipynb"
+			]
+		},
 		// Configure properties specific to VS Code.
 		"vscode": {
 			"settings": {
