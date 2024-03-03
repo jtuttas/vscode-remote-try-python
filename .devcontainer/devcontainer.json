@@ -12,7 +12,6 @@
 	"customizations": {
 		"codespaces": {
 			"openFiles": [
-				"./test.ipynb"
 			]
 		},
 		// Configure properties specific to VS Code.
@@ -38,13 +37,10 @@
 				"ms-python.python",
 				"frhtylcn.pythonsnippets",
 				"humao.rest-client",
-				"mtxr.sqltools",
 				"theumletteam.umlet",
 				"redhat.vscode-xml",
 				"redhat.vscode-yaml",
-				"mtxr.sqltools-driver-sqlite"
-
-
+				"alexcvzz.vscode-sqlite"
 
 			]
 		}
