@@ -41,7 +41,8 @@
 				"mtxr.sqltools",
 				"theumletteam.umlet",
 				"redhat.vscode-xml",
-				"redhat.vscode-yaml"
+				"redhat.vscode-yaml",
+				"mtxr.sqltools-driver-sqlite"
 
 
 
