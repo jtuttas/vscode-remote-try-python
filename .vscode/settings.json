@@ -6,4 +6,5 @@
     "sqlite.setupDatabase": 
         { "./data/tuweather.db": { "sql": ["PRAGMA foreign_keys = ON;"] } }
     
+    
 }
